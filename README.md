@@ -1,7 +1,16 @@
-- 👋 Hi, I’m @Natnael-Getachew-Yirga
-- 👀 I’m interested in Backend Programming, Software development, Machine Learning, and anything tech related
-- 🌱 I’m a graduate Electrical and Computer engineer
-- 💞️ I’m looking to collaborate on software projects, in AI/ML domain
+
+<div align="center">
+  <h1>
+  Hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <br>
+  <p>I’m a graduate Electrical and Computer engineer</p>
+ <p>I’m interested in Backend Programming, Software development, Machine Learning, and anything tech related.</p>
+</div>
+<br>
+
 - 📫 How to reach me natnaelyerga@gmail.com
 
 <!---

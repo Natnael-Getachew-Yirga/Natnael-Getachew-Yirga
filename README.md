@@ -7,7 +7,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
   <br>
   <p>I’m a Master’s student in Computer Science (Distributed Software Systems) at TU Darmstadt </p>
- <p>I’m interested in Backend Programming, Software development, Machine Learning, and anything tech related.</p>
+ <p>I’m interested in Backend Programming, Software Engineering, Machine Learning, and anything tech-related.</p>
 </div>
 <br>
 <p align="center">
